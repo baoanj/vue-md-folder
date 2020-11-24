@@ -1,0 +1,17 @@
+{
+  "name": "vue-md-folder",
+  "version": "0.0.1",
+  "description": "markdown document generator on specify folder for vue cli",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/baoanj/vue-md-folder"
+  },
+  "keywords": [
+    "markdown",
+    "generator"
+  ],
+  "postcss": {},
+  "author": "baoanj",
+  "license": "ISC"
+}
